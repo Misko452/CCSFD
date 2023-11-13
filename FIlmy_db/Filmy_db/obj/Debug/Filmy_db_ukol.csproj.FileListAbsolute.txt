@@ -1,0 +1,14 @@
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\bin\Debug\Filmy_db_ukol.exe.config
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\bin\Debug\Filmy_db_ukol.exe
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\bin\Debug\Filmy_db_ukol.pdb
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.csproj.AssemblyReference.cache
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.csproj.SuggestedBindingRedirects.cache
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.Hlavni.resources
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.Properties.Resources.resources
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.csproj.GenerateResource.cache
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.csproj.CoreCompileInputs.cache
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.exe
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.pdb
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.Reziseri.resources
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.Zanry.resources
+C:\Users\madmi\source\repos\Filmy_db_ukol\Filmy_db_ukol\obj\Debug\Filmy_db_ukol.Filmy.resources
